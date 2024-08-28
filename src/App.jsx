@@ -2,7 +2,7 @@ import { useState } from 'react'
 import explorer from './data/folderData'
 
 import './App.css'
-import Folder from './components/folder';
+import Folder from './components/Folder';
 import useTraverseTree from './hooks/useTraverseTree';
 
 function App() {
